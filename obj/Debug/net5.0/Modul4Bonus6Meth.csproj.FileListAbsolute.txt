@@ -1,0 +1,16 @@
+C:\Users\unnip\repos\Modul4Bonus6Meth\bin\Debug\net5.0\Modul4Bonus6Meth.exe
+C:\Users\unnip\repos\Modul4Bonus6Meth\bin\Debug\net5.0\Modul4Bonus6Meth.deps.json
+C:\Users\unnip\repos\Modul4Bonus6Meth\bin\Debug\net5.0\Modul4Bonus6Meth.runtimeconfig.json
+C:\Users\unnip\repos\Modul4Bonus6Meth\bin\Debug\net5.0\Modul4Bonus6Meth.runtimeconfig.dev.json
+C:\Users\unnip\repos\Modul4Bonus6Meth\bin\Debug\net5.0\Modul4Bonus6Meth.dll
+C:\Users\unnip\repos\Modul4Bonus6Meth\bin\Debug\net5.0\ref\Modul4Bonus6Meth.dll
+C:\Users\unnip\repos\Modul4Bonus6Meth\bin\Debug\net5.0\Modul4Bonus6Meth.pdb
+C:\Users\unnip\repos\Modul4Bonus6Meth\obj\Debug\net5.0\Modul4Bonus6Meth.csproj.AssemblyReference.cache
+C:\Users\unnip\repos\Modul4Bonus6Meth\obj\Debug\net5.0\Modul4Bonus6Meth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unnip\repos\Modul4Bonus6Meth\obj\Debug\net5.0\Modul4Bonus6Meth.AssemblyInfoInputs.cache
+C:\Users\unnip\repos\Modul4Bonus6Meth\obj\Debug\net5.0\Modul4Bonus6Meth.AssemblyInfo.cs
+C:\Users\unnip\repos\Modul4Bonus6Meth\obj\Debug\net5.0\Modul4Bonus6Meth.csproj.CoreCompileInputs.cache
+C:\Users\unnip\repos\Modul4Bonus6Meth\obj\Debug\net5.0\Modul4Bonus6Meth.dll
+C:\Users\unnip\repos\Modul4Bonus6Meth\obj\Debug\net5.0\ref\Modul4Bonus6Meth.dll
+C:\Users\unnip\repos\Modul4Bonus6Meth\obj\Debug\net5.0\Modul4Bonus6Meth.pdb
+C:\Users\unnip\repos\Modul4Bonus6Meth\obj\Debug\net5.0\Modul4Bonus6Meth.genruntimeconfig.cache
